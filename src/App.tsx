@@ -620,7 +620,7 @@ function App() {
             <div className="flex items-center justify-between">
               <div>
                 <h1 className="text-3xl font-bold text-gray-800 bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
-                  Temple Management Dashboard
+                  SHREE Management Dashboard
                 </h1>
                 <p className="text-gray-600 mt-2 flex items-center">
                   <span className="w-2 h-2 bg-green-500 rounded-full mr-2 animate-pulse"></span>
