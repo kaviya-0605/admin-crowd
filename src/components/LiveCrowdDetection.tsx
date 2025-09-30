@@ -375,7 +375,7 @@ export default function LiveCrowdDetection() {
       location: 'Gate 1 - Primary Entry',
       status: 'online',
       personCount: 47,
-      liveFeedUrl: 'https://images.unsplash.com/photo-1518837695005-2083093ee35b?w=800&h=400&fit=crop',
+      liveFeedUrl: 'https://pbs.twimg.com/media/ERSOo_xU8AQMnQ4?format=jpg',
       detectedPersons: [
         { 
           id: '1', 
